@@ -1,6 +1,7 @@
+/* eslint-disable no-underscore-dangle */
+
 const ClientError = require('../../exceptions/ClientError');
 
-/* eslint-disable no-underscore-dangle */
 class NotesHandler {
   constructor(service, validator) {
     this._service = service;
