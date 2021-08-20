@@ -1,1 +1,3 @@
 http://notesapp-v1.dicodingacademy.com/
+http://notesapp-v2.dicodingacademy.com/
+http://notesapp-v3.dicodingacademy.com/login
